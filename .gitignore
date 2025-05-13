@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# Optional: Redis dump file
+dump.rdb
